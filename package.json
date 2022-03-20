@@ -1,7 +1,7 @@
 {
   "name": "harshal",
-  "version": "1.1.0",
-  "description":"get to knoe via a npx",
+  "version": "2.0.0",
+  "description": "get to knoe via a npx",
   "bin": {
     "harshal": "index.js"
   },
