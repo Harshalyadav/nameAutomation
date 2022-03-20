@@ -15,5 +15,11 @@
     "Developer",
     "web developer",
     "MERN"
-  ]
+  ],
+  "license": "UNLICENSED",
+  "main" : "index.js",
+  "repository": "Harshalyadav/nameAutomation",
+  "author": {
+    "name": "Harshal yadav"
+  }
 }
