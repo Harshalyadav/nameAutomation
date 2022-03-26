@@ -1,11 +1,12 @@
 {
   "name": "harshal",
   "version": "2.0.2",
-  "description": "get to knoe via a npx",
+  "description": "Get to know  harshal yadav via a npx harshal",
   "bin": {
     "harshal": "index.js"
   },
   "dependencies": {
+    "chalk": "^4.1.0",
     "clear-any-console": "^1.16.2"
   },
   "keywords": [
@@ -18,8 +19,17 @@
   ],
   "license": "UNLICENSED",
   "main": "index.js",
-  "repository": "Harshalyadav/nameAutomation",
-  "author": {
-    "name": "Harshal yadav"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshalyadav/nameAutomation.git"
+  },
+  "author": "Harshal yadav",
+  "bugs": {
+    "url": "https://github.com/Harshalyadav/nameAutomation/issues"
+  },
+  "homepage": "https://github.com/Harshalyadav/nameAutomation#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
